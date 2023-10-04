@@ -5,7 +5,7 @@
 -----
 ## 사진을 올려봅시다.
 -----
-'pip install cat_project'
+```pip install cat_project```
 ## Usage
 ----
 ```print("고양이는 너무 귀여워요!!!")```
