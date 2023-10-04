@@ -6,7 +6,9 @@ Github 연습 : 마크다운 작성
 
 ## 사진을 올려봅시다.
 
-```pip install cat_project```
+```
+pip install cat_project
+```
 ## Usage
 
 
