@@ -8,7 +8,7 @@
 'pip install cat_project'
 ## Usage
 ----
-'print("고양이는 너무 귀여워요!!!")'
+```print("고양이는 너무 귀여워요!!!")```
 ----
 ## Example
 ----
